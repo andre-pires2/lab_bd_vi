@@ -5,7 +5,6 @@ import static org.junit.Assert.*;
 
 public class CalculadoraTest {
 
-    @Before
     Calculadora calculadora = new Calculadora();
 
     @Test
