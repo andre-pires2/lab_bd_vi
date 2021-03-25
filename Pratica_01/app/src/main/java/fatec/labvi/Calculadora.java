@@ -3,7 +3,7 @@ package fatec.labvi;
 public class Calculadora {
     public static void main(String[] args) {}
 
-    public int subtrair(int x, int y) {
+    public double subtrair(double x, double y) {
         return x-y;
     }
 }
