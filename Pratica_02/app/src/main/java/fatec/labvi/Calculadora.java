@@ -3,8 +3,9 @@ package fatec.labvi;
 public class Calculadora {
     public static void main(String[] args) {}
 
-    public long subtrair()
+    public float subtrair(float x, float y)
     {
-        return 1L;
+        float resultado = x-y;
+        return resultado;
     }
 }
