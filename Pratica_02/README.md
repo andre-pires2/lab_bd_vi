@@ -20,3 +20,6 @@ Partiçao 3: -1 a -100
     <[(- 0.11) - (- 0.1)], - 0.01>
     Caso de teste 5
     <[(- 99.99) - (- 99.98)], - 0.01>
+
+
+Link do video explicatorio: https://youtu.be/VPIIW3jV3B8
